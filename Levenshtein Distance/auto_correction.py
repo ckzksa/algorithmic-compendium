@@ -43,7 +43,7 @@ if __name__ == "__main__":
     print(corrections)
     print()
     
-    text = "tis is am examplle"
+    text = "ths is am examplle"
     print(f"Misspelled text: {text}")
     text = auto_correct(text, dictionary)
     print(f"Text correctly spelled: {text}")
